@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This is the most awesome project ever created by a JAVA cohort. This is the initial step in a multi-day effort to build an [*Reverse Polish Notation*](https://en.wikipedia.org/wiki/Reverse_Polish_notation) (RPN) Calculator that takes input from the command line. 
+This is one of the most awesome project ever created by a JAVA cohort. Some would say the best. This is the initial step in a multi-day effort to build an [*Reverse Polish Notation*](https://en.wikipedia.org/wiki/Reverse_Polish_notation) (RPN) Calculator that takes input from the command line. So far only the initial steps have been completed. 
 
 This will eventually support skynet and all other AI applications. Also some of the following post-fix operators:
 
